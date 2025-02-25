@@ -1,2 +1,2 @@
-# 🎲| Diagrama para M Ban
+# 🎲| Diagrama para Mo Ban
  

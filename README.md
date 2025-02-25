@@ -1,2 +1,2 @@
-# 🎲| Diagrama para Modelagem de Banco Dad
+# 🎲| Diagrama para Modelagem de Banco Dado
  

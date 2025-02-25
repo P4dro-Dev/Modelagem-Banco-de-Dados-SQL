@@ -1,1 +1,1 @@
-# Diagrama-SQ
+# Diagrama-S

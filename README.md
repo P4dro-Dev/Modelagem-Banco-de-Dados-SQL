@@ -1,1 +1,1 @@
-# Diagr
+# Diag

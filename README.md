@@ -1,4 +1,4 @@
 # 🎲| Diagrama para Modelagem de Banco Dados
 
-  Trata-se de um Diagrama, para o Desenen
+  Trata-se de um Diagrama, para o Desenenv
  

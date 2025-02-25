@@ -1,2 +1,2 @@
-# 🎲| Diagrama para Modelage Ban
+# 🎲| Diagrama para Modelagem Ban
  

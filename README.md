@@ -1,1 +1,1 @@
-# 🎲| Diagra
+# 🎲| Diagram

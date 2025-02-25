@@ -1,4 +1,4 @@
 # 🎲| Diagrama para Modelagem de Banco Dados
 
-  Trata-se de um Di
+  Trata-se de um Dia
  

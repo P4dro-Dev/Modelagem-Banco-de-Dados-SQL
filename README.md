@@ -1,2 +1,2 @@
-# 🎲| Diagrama do 
+# 🎲| Diagrama do B
  

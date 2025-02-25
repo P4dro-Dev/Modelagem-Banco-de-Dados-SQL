@@ -1,2 +1,2 @@
-# 🎲| Diagrama para Mod Ban
+# 🎲| Diagrama para Mode Ban
  

@@ -1,1 +1,1 @@
-# 🎲| Diagrama d
+# 🎲| Diagrama do

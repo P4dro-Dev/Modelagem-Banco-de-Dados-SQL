@@ -1,2 +1,2 @@
-# 🎲| Diagrama comBan
+# 🎲| Diagrama coBan
  

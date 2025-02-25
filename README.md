@@ -1,2 +1,2 @@
-# 🎲| Diagrama para Modelagem de Banc
+# 🎲| Diagrama para Modelagem de Banco
  
